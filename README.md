@@ -4,12 +4,9 @@
 
 ## 说明
 
-- 小破站视频链接：https://www.bilibili.com/video/BV1d541177ZM，希望大家多多支持
-
+- 小破站视频链接：https://www.bilibili.com/video/BV1d541177ZM
 - 实例代码在 `code` 文件夹
-
 - 笔记在 `notes` 文件
-
 - 课堂使用的软件和工具在 `tools` 文件夹
 
 
