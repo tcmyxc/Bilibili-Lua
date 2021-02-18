@@ -22,7 +22,11 @@ Lua 有一个同时进行的 JIT 项目，提供在特定平台上的即时编�
 
 官网：http://www.lua.org/
 
-Windows 平台：https://joedf.ahkscript.org/LuaBuilds/
+Windows 平台：
+
+- https://joedf.ahkscript.org/LuaBuilds/
+
+- https://github.com/joedf/LuaBuilds/tree/gh-pages/PrivateBuild/builds
 
 下载版本：5.3.6
 
